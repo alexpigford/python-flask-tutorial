@@ -3,5 +3,8 @@
 Tools Used:
 - Python
 - Flask
-- SQLAlechemy
+- SQLAlchemy
 - Jinja2
+
+Deployed at: 
+https://to-do-tutorial.herokuapp.com/
